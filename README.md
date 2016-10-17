@@ -1,6 +1,5 @@
 # SnakesAndLadders
-![GitHub Logo](illustration.png)
-Format: ![Screenshot of the game](url)
+![Screenshot of the game](illustration.png)
 
 Wrote this ages ago in the second year. Back then I knew nothing about multithreading or serialisation. The year before that we were introduced to C, and teaching of Java was lacking to say the least - I spent a week trying to fiogure out how to deallocate memory :D
 This was the first application I ever made that actually did something. 
